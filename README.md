@@ -8,7 +8,6 @@
 
 *A narrative web experience where being chosen means salvation — not death.*
 
-[![Play Now](https://img.shields.io/badge/▶%20PLAY%20NOW-choreomania-game.vercel.app-FF3C6B?style=for-the-badge&logoColor=white)](https://choreomania-game.vercel.app/main/welcome.html)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
